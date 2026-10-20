@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Work",
+    "icon": "💼",
+    "delay": 1.5,
+    "items": [
+      {
+        "type": "url",
+        "path": "https://github.com",
+        "name": "GitHub"
+      },
+      {
+        "type": "url",
+        "path": "https://mail.google.com",
+        "name": "Gmail"
+      }
+    ]
+  },
+  {
+    "name": "Dev",
+    "icon": "🎓",
+    "delay": 1.5,
+    "items": []
+  }
+]
